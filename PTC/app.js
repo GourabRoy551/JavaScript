@@ -1,7 +1,7 @@
-var name;
-name = prompt("What is your name?");
+// var name;
+// name = prompt("What is your name?");
 
-console.log(name);
+// console.log(name);
 // document.write(name);
 // document.write("<h1>" + name + "</h1>");
 // document.write(name + 7 + "<br>");
